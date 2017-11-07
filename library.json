@@ -1,0 +1,23 @@
+{
+    "name": "Arduino due FreeRTOS 9.0.0",
+    "description": "FreeRTTOS 9.0.0 Ported for Arduino Due",
+    "keywords": "rtos, freertos, arduino due",
+    "authors": [
+        {
+            "name": "Claudio Ambrosini",
+            "url": "http://github.com/straccio/Arduino_Due_FreeRTOS",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/straccio/OneWire"
+    },
+    "version": "9.0.0.1",
+    "homepage": "https://github.com/straccio/OneWire",
+    "frameworks": "Arduino",
+    "architectures":"sam",
+    "examples": [
+        "examples/*/*.ino"
+    ]
+}
